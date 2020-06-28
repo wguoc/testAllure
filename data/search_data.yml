@@ -7,3 +7,6 @@ test_search1:
 test_search2:
    - "a"
    - "b"
+test_search3:
+   - "a"
+   - "b"
